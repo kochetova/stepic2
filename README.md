@@ -1,2 +1,3 @@
 # stepic2
-My way to Scala
+
+https://stepik.org/course/16243/syllabus
