@@ -3,7 +3,7 @@ package topic2
 import scala.io.StdIn._
 
 object Main {
-  def main(args: Array[String]): Unit={
+  def main(args: Array[String]): Unit = {
     //2.1.1
     {
       val name = readLine()
